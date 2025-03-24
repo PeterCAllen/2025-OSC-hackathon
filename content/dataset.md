@@ -3,8 +3,9 @@ title: Dataset
 nav: Dataset
 ---
 
-<!-- {% include figure.html img="data_sponsor.png" %} -->
+TBD
 
+<!---
 # Background on the Dataset
 The dataset that will be used for this hackathon is a stem cell differentiation to cardiomyocytes with samples collected every day during the differentiation starting at the day cells were plated (Day -2) and ending with cardiomyocytes (Day 14). Day 0 indicates the start of the differentiation. Samples were fixed on the day of collection and then processed together with combinatorial indexing using Scale Biosciences technology.
 
@@ -53,3 +54,7 @@ We recommend downloading these before the hackathon and doing some quick prelimi
 
 # Oz Single Cell 2024 Github Organisation
 We have generated a [github organisation](https://github.com/Oz-Single-Cell-2024-Hackathon) specifically for this hackathon so all code for each project can be stored in a central location. You should have received an invitation to join the [Oz Single Cell 2024 Github Organisation](https://github.com/Oz-Single-Cell-2024-Hackathon) but if you didn't receive it please email d.neavin @ garvan.org.au. Create a repo within the organisation to store all code and scripts and get hacking!
+-->
+
+<!-- {% include figure.html img="data_sponsor.png" %} -->
+
