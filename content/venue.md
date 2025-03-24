@@ -9,6 +9,6 @@ Here's a [link for the location of the building on google maps](https://maps.app
 
 This is the entrance to the building:
 
-<img src="https://media3.architecturemedia.net/site_media/media/cache/87/f6/87f63d54bf71765c9a978223a234b09b.jpg" alt="Charles Perkins Centre" style="width:100%;">
+<img src="https://media3.architecturemedia.net/site_media/media/cache/87/f6/87f63d54bf71765c9a978223a234b09b.jpg" alt="Charles Perkins Centre" style="width:75%;">
 
 <br>
