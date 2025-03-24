@@ -3,13 +3,15 @@ title: Home
 layout: page
 ---
 
-# 2024 Oz Single Cell Hackathon
+# 2025 Oz Single Cell Hackathon
 
-{% include figure.html img="hackathon_ad.jpeg" alt="Hackathon Flyer" width="100%" %}
+<p align="center">
+  <img src="./images/dna_hackathon.gif" />
+</p>
 
-Welcome to the 2024 edition of Oz Single Cell Hackathon!
+Welcome to the 2025 edition of Oz Single Cell Hackathon!
 
-This year's hackathon will be hosted in Sydney from 9th-10th December.
+This year's hackathon will be hosted in Sydney from 19th-21st May.
 
 ______________________________________________________________________________________________________
 
@@ -22,20 +24,14 @@ The event offers early-career researchers and leaders in single-cell genomics th
 Seeding of new projects and collaborations
 New tools for single-cell data visualisation and/or analysis
 Publication of a Grand Challenges summary
-This year’s theme will be Temporal Dynamics: Defining Cellular Time. We will analyse a multi-day capture dataset of stem cell-derived cardiomyocytes, assayed using the Scale Biosciences Technology to identify dynamic molecular features associated with cell states transitioning. Data challenges may involve developing new methods for defining cell trajectories, quantifying inter-sample variation in cell development or data visualisation.
+
+**PLACEHOLDER FOR Theme BLURB**
 
 If you are willing to collaborate with other talented individuals, showcase your skills and contribute to developing creative solutions to address real scientific challenges, you just need to reserve your spot for this event. We are excited to have you on board!
 
 
-Hackathon: Monday 9th Dec 9am-late and Tuesday 10 Dec 9-5pm.
-
-Sponsorship: We thank Oz Single Cell, Integrated Science and Scale Biosciences for their generous support including travel awards and catering.
-
+Hackathon: Monday 19th May 9am-late, Tuesday 20th May 9am-5pm, Wednesday 21st May 9am-12pm
 
 <!-- {% include toc.html %} -->
 
 ------
-
-{% include figure.html img="sponsors.png" alt="Hackathon sponsor" %}
-
-<!-- {% include template/credits.html %} -->
