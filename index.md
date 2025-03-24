@@ -3,15 +3,13 @@ title: Home
 layout: page
 ---
 
-# 2025 Oz Single Cell Hackathon
-
 <p align="center">
   <img src="./images/dna_hackathon.gif" />
 </p>
 
 Welcome to the 2025 edition of Oz Single Cell Hackathon!
 
-This year's hackathon will be hosted in Sydney from 19th-21st May.
+**This year's hackathon will be hosted in Sydney from 19th-21st May.**
 
 ______________________________________________________________________________________________________
 
