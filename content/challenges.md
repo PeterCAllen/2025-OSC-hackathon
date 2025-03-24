@@ -3,33 +3,36 @@ title: Hackathon Challenges
 nav: Challenges
 ---
 
-To help you get the creative juices flowing, we've come up with a few challenges that you might decide to tackle. These fall into a the following categories:
+# Hackathon Challenges: Single Cell Multiome Data Analysis
+
+Outlined below are some general ideas around the theme of analyzing single-cell multimodal data that can be tackled during the hackathon. Please feel free to generate your own ideas as well!
 
 
-## Technical
-- Identify batch correction methods that allow pseudotime assessment across biological replicates
-- Establish best pre-processing practices for pseudotime assessment
-- Determine best methods for multiple lineage detection
-- Determine how to apply reference-based annotation methods with pseudotime (ie establish a pseudotime for one dataset/sample and predict the pseudotime values for each cell in a separate query sample)
+### Visualization of scMultiomics
 
+#### Best Methods/Practices for Visualizing Different Modalities
 
-## Benchmarking
+- Visualization techniques for unpaired data (e.g., using MultiVI to align and merge latent spaces)
+  - Coverage track (ATAC) + violin (GEX) is used for paired data, are there visualizations for unpaired?
+- Dimensionality reduction techniques for visualizing high-dimensional data (e.g., UMAP, t-SNE)
 
-- Establish a method to determine which pseudotime method works best for a given dataset
-- Build methods to ascertain if biological cell states are reproducible across biological replicates
+#### Challenges in Visualizing Unpaired Data
 
+- Creating visual representations that highlight correlations between different modalities
 
-## Visualisation
+### Inferring Gene Expression from Chromatin Accessibility
 
-- Develop more intuitive visualisation of temporal dynamics and transitions across states in single-cell datasets
+#### Predictive Modeling
 
+- Using machine learning models to predict true gene expression from chromatin accessibility data
+- Developing interpretable models that prioritize transcription factors involved in gene regulation
 
-## Biological Interpretation
+#### Enhancer-Promoter Interactions
 
-- Construct tools to identify genes that characterise pseudotime
-- Build methods to identify biologically-grounded pseudotime that accurately positions cells across dynamic cell states
-- Establish platforms to ascertain the biological processes being defined by pseudotime estimations.
+- Benchmarking methods to infer gene regulatory networks from single-cell multiome data (e.g., LINGER)
 
+## Integration of Unpaired Single Cell Multiome Data
 
+- Best practices for integrating unpaired single cell multiome data
+- Benchmarking existing integration methods to evaluate their performance (e.g. GLUE, LIGER, MinNet)
 
-If you have a great idea outside of these prompts, that's great too!
