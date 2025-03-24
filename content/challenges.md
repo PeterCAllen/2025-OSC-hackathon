@@ -1,9 +1,7 @@
 ---
-title: Hackathon Challenges
+title: Hackathon Challenges – Single Cell Multiome Data Analysis
 nav: Challenges
 ---
-
-# Hackathon Challenges: Single Cell Multiome Data Analysis
 
 Outlined below are some general ideas around the theme of analyzing single-cell multimodal data that can be tackled during the hackathon. **Please feel free to generate your own ideas as well!**
 
