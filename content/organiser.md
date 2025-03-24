@@ -5,6 +5,9 @@ nav: Organisers
 
 TBD
 <!---
+
+
+
 We gratefully acknowledge the generous sponsorship that made the hackathon possible.
 
 {% include figure.html img="sponsors.png" alt="Hackathon sponsor" %}
@@ -21,4 +24,7 @@ We gratefully acknowledge the generous sponsorship that made the hackathon possi
 * Hamish King
 * Davide Vespasiani
 * Givanna Putri
+
+
+
 --->
